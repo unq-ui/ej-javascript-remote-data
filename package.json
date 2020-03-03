@@ -1,0 +1,22 @@
+{
+  "name": "ej-javascript-remote-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unq-ui/ej-javascript-remote-data.git"
+  },
+  "author": "Leandro Di Lorenzo <leandro.jdl@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unq-ui/ej-javascript-remote-data/issues"
+  },
+  "homepage": "https://github.com/unq-ui/ej-javascript-remote-data#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
